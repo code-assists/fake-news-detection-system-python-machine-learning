@@ -79,7 +79,7 @@ We provide **Source Code, Project Report, Synopsis, PPT, Documentation, and Vide
 🌐 **Websites:**   [CodeAssists](http://codeassists.com/), [FreeProjectz](https://www.freeprojectz.com/)  
 📌 **Project Link:** [Fake News Detection System – Source Code](https://www.freeprojectz.com/machine-learning-projects-python-projects-major-project/fake-news-detection-system-project-source)  
 
---
+
 ## ⚙️ Installation & Setup
 
 ### 🔹 Prerequisites
