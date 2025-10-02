@@ -69,26 +69,15 @@ Each dataset includes fields like **title, text, subject, and date**.
 For demo purposes, the project shows **top 100 Fake & Real news records** in the dataset viewer.  
 
 ---
-
 ## 📞 Contact / Get in Touch  
 
 If you are interested in this **Fake News Detection System Project** or need guidance for your **Final Year Project**, you can reach out to us easily.  
 We provide **Source Code, Project Report, Synopsis, PPT, Documentation, and Video Demonstration** for students.  
 
 📩 **Email:** [codeassists@gmail.com](mailto:codeassists@gmail.com)  
-
-📱 **Phone / WhatsApp:** [+91-8470010001](https://wa.me/918470010001?text=Hello%20Team%2C%20I%20got%20your%20contact%20from%20GitHub%20and%20want%20to%20know%20about%20a%20project)  
-
-🌐 **Websites:**  
-- [CodeAssists](http://codeassists.com/)  
-- [FreeProjectz](https://www.freeprojectz.com/)  
-
+📱 **Phone / WhatsApp:** [+91-8470010001](https://wa.me/918470010001?text=Hello%20Team%2C%20I%20got%20your%20contact%20from%20GitHub%20and%20want%20to%20know%20about%20a%20project) 👉 [Chat Now](https://wa.me/918470010001?text=Hello%20Team%2C%20I%20got%20your%20contact%20from%20GitHub%20and%20want%20to%20know%20about%20a%20project)    
+🌐 **Websites:**   [CodeAssists](http://codeassists.com/), [FreeProjectz](https://www.freeprojectz.com/)  
 📌 **Project Link:** [Fake News Detection System – Source Code](https://www.freeprojectz.com/machine-learning-projects-python-projects-major-project/fake-news-detection-system-project-source)  
-
-▶️ **YouTube Demo:** [Watch Here](https://www.youtube.com/watch?v=45eFdG_KFLg)  
-
-💬 *Click here to chat instantly on WhatsApp:*  
-👉 [Chat Now](https://wa.me/918470010001?text=Hello%20Team%2C%20I%20got%20your%20contact%20from%20GitHub%20and%20want%20to%20know%20about%20a%20project)  
 
 --
 ## ⚙️ Installation & Setup
