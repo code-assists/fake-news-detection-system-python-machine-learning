@@ -8,7 +8,7 @@ It is ideal for **Final Year Computer Science Students (B.Tech, MCA, M.Tech, BCA
 
 ## 📺 Project Demo
 ▶️ **YouTube Video**: [Watch Here](https://www.youtube.com/watch?v=45eFdG_KFLg)  
-![fake_news_YT](https://user-images.githubusercontent.com/28294942/233419123-cecece7b-4775-4481-abb0-f4ebae8a3d5c.png)
+<img width="1854" height="1519" alt="Fake New Detection System" src="https://github.com/user-attachments/assets/0682e029-4ccd-4ea3-849d-b72cedae00fd" />
 
 ---
 
