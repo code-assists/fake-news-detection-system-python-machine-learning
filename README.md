@@ -1,4 +1,4 @@
-# 📰 Full-Stack Fake News Detection System | Python Django + MySQL | Machine Learning Project
+# 📰 Fake News Detection System Python Machine Learning Project
 
 Fake News Detection System developed using **Python, Django 5, MySQL, and Machine Learning (Logistic Regression + NLP)**.  
 This project detects whether news is **Real** or **Fake** with a complete **web application**.  
