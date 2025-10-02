@@ -70,7 +70,7 @@ For demo purposes, the project shows **top 100 Fake & Real news records** in the
 
 ---
 
-## 📞 Contact / Get in Touch  
+## 📞 Contact / Get in Touch (Get Source Code ) 
 
 If you are interested in this **Fake News Detection System Project** or need guidance for your **Final Year Project**, you can reach out to us easily.  
 We provide **Source Code, Project Report, Synopsis, PPT, Documentation, and Video Demonstration** for students.  
