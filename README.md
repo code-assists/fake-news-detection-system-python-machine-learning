@@ -38,12 +38,12 @@ It provides a complete **Django-based Web Application** with **MySQL integration
 
 ## 🚀 Features
 
-- 🔹 **Fake News Detection**: Classify news as Real or Fake  
-- 🔹 **Admin Login System**: Secure login with MySQL database validation  
-- 🔹 **Detection History**: Track all past predictions  
-- 🔹 **Dataset Viewer**: View top Fake and Real news samples  
-- 🔹 **System Information Page**: Shows libraries and modules used  
-- 🔹 **User-Friendly UI**: Built with Django templates, Bootstrap, and responsive design  
+- **Fake News Detection**: Classify news as Real or Fake  
+- **Admin Login System**: Secure login with MySQL database validation  
+- **Detection History**: Track all past predictions  
+- **Dataset Viewer**: View top Fake and Real news samples  
+- **System Information Page**: Shows libraries and modules used  
+- **User-Friendly UI**: Built with Django templates, Bootstrap, and responsive design  
 
 ---
 
@@ -69,6 +69,7 @@ Each dataset includes fields like **title, text, subject, and date**.
 For demo purposes, the project shows **top 100 Fake & Real news records** in the dataset viewer.  
 
 ---
+
 ## 📞 Contact / Get in Touch  
 
 If you are interested in this **Fake News Detection System Project** or need guidance for your **Final Year Project**, you can reach out to us easily.  
@@ -79,6 +80,7 @@ We provide **Source Code, Project Report, Synopsis, PPT, Documentation, and Vide
 🌐 **Websites:**   [CodeAssists](http://codeassists.com/), [FreeProjectz](https://www.freeprojectz.com/)  
 📌 **Project Link:** [Fake News Detection System – Source Code](https://www.freeprojectz.com/machine-learning-projects-python-projects-major-project/fake-news-detection-system-project-source)  
 
+---
 
 ## ⚙️ Installation & Setup
 
